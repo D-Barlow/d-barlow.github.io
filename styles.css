@@ -1,0 +1,48 @@
+body {
+    background-image: url("images/pexels-pixabay-268533.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+
+.content {
+    color: #D2F5F9;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    max-width: 700px;
+    background: rgba(0, 0, 0, 0.3);    
+}
+
+
+.content p {
+    font-size: 30px;
+    color: green;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    padding-bottom: 40px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline-block;
+    padding-top: 35px;
+    margin: 0 auto;
+  }
+
+nav li a:hover {
+    background-color: black;
+}
+
+  nav a {
+      font-size: 25px;
+      font-weight: 850;
+      color: #126821c7;
+      text-decoration: none;
+  }
+
