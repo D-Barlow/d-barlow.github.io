@@ -1,0 +1,25 @@
+nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    padding-bottom: 40px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline-block;
+    padding-top: 35px;
+    margin: 0 auto;
+  }
+
+nav li a:hover {
+    background-color: black;
+}
+
+nav a {
+      font-size: 25px;
+      font-weight: 850;
+      color: #65592d;
+      text-decoration: none;
+  }
